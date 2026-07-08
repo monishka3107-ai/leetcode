@@ -50,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/monishka3107-ai/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/monishka3107-ai/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/monishka3107-ai/leetcode/tree/master/0066-plus-one) |
+| [0509-fibonacci-number](https://github.com/monishka3107-ai/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/monishka3107-ai/leetcode/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/monishka3107-ai/leetcode/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/monishka3107-ai/leetcode/tree/master/0509-fibonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/monishka3107-ai/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Stack
 |  |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/monishka3107-ai/leetcode/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/monishka3107-ai/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
