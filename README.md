@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/monishka3107-ai/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/monishka3107-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/monishka3107-ai/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/monishka3107-ai/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/monishka3107-ai/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/monishka3107-ai/leetcode/tree/master/0706-design-hashmap) |
 | [0994-rotting-oranges](https://github.com/monishka3107-ai/leetcode/tree/master/0994-rotting-oranges) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/monishka3107-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/monishka3107-ai/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/monishka3107-ai/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0704-binary-search](https://github.com/monishka3107-ai/leetcode/tree/master/0704-binary-search) |
 ## Binary Tree
 |  |
 | ------- |
