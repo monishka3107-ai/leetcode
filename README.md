@@ -164,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/monishka3107-ai/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/monishka3107-ai/leetcode/tree/master/0706-design-hashmap) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/monishka3107-ai/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
