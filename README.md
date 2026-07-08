@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/monishka3107-ai/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0841-keys-and-rooms](https://github.com/monishka3107-ai/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/monishka3107-ai/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/monishka3107-ai/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/monishka3107-ai/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -70,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/monishka3107-ai/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/monishka3107-ai/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
