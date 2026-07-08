@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/monishka3107-ai/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/monishka3107-ai/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/monishka3107-ai/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/monishka3107-ai/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/monishka3107-ai/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/monishka3107-ai/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/monishka3107-ai/leetcode/tree/master/0169-majority-element) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/monishka3107-ai/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/monishka3107-ai/leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/monishka3107-ai/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/monishka3107-ai/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/monishka3107-ai/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/monishka3107-ai/leetcode/tree/master/0169-majority-element) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/monishka3107-ai/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/monishka3107-ai/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/monishka3107-ai/leetcode/tree/master/0994-rotting-oranges) |
 ## Topological Sort
