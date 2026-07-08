@@ -116,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/monishka3107-ai/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/monishka3107-ai/leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/monishka3107-ai/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
