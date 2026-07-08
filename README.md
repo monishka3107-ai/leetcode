@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/monishka3107-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/monishka3107-ai/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0705-design-hashset](https://github.com/monishka3107-ai/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/monishka3107-ai/leetcode/tree/master/0706-design-hashmap) |
 | [0994-rotting-oranges](https://github.com/monishka3107-ai/leetcode/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/monishka3107-ai/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/monishka3107-ai/leetcode/tree/master/0383-ransom-note) |
 | [0705-design-hashset](https://github.com/monishka3107-ai/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/monishka3107-ai/leetcode/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/monishka3107-ai/leetcode/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/monishka3107-ai/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0705-design-hashset](https://github.com/monishka3107-ai/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/monishka3107-ai/leetcode/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/monishka3107-ai/leetcode/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/monishka3107-ai/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/monishka3107-ai/leetcode/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/monishka3107-ai/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -156,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/monishka3107-ai/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/monishka3107-ai/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
