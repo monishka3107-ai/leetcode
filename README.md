@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/monishka3107-ai/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/monishka3107-ai/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/monishka3107-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/monishka3107-ai/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/monishka3107-ai/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/monishka3107-ai/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/monishka3107-ai/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
