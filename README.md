@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/monishka3107-ai/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/monishka3107-ai/leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/monishka3107-ai/leetcode/tree/master/0027-remove-element) |
 | [0128-longest-consecutive-sequence](https://github.com/monishka3107-ai/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/monishka3107-ai/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/monishka3107-ai/leetcode/tree/master/0217-contains-duplicate) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/monishka3107-ai/leetcode/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/monishka3107-ai/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/monishka3107-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/monishka3107-ai/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
