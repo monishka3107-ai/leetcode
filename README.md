@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/monishka3107-ai/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/monishka3107-ai/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/monishka3107-ai/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/monishka3107-ai/leetcode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/monishka3107-ai/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/monishka3107-ai/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/monishka3107-ai/leetcode/tree/master/0217-contains-duplicate) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/monishka3107-ai/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/monishka3107-ai/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/monishka3107-ai/leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
