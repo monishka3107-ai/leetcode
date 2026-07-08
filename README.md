@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/monishka3107-ai/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/monishka3107-ai/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/monishka3107-ai/leetcode/tree/master/0706-design-hashmap) |
+| [0912-sort-an-array](https://github.com/monishka3107-ai/leetcode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/monishka3107-ai/leetcode/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/monishka3107-ai/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/monishka3107-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/monishka3107-ai/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0912-sort-an-array](https://github.com/monishka3107-ai/leetcode/tree/master/0912-sort-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/monishka3107-ai/leetcode/tree/master/0743-network-delay-time) |
+| [0912-sort-an-array](https://github.com/monishka3107-ai/leetcode/tree/master/0912-sort-an-array) |
 ## Shortest Path
 |  |
 | ------- |
@@ -232,8 +235,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/monishka3107-ai/leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/monishka3107-ai/leetcode/tree/master/0912-sort-an-array) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/monishka3107-ai/leetcode/tree/master/0509-fibonacci-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/monishka3107-ai/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/monishka3107-ai/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/monishka3107-ai/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/monishka3107-ai/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
