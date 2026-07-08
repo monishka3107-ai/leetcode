@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/monishka3107-ai/leetcode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/monishka3107-ai/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/monishka3107-ai/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/monishka3107-ai/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/monishka3107-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/monishka3107-ai/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/monishka3107-ai/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/monishka3107-ai/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/monishka3107-ai/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/monishka3107-ai/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Breadth-First Search
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/monishka3107-ai/leetcode/tree/master/0933-number-of-recent-calls) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/monishka3107-ai/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
