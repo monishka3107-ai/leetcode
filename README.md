@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/monishka3107-ai/leetcode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/monishka3107-ai/leetcode/tree/master/0626-exchange-seats) |
 | [1075-project-employees-i](https://github.com/monishka3107-ai/leetcode/tree/master/1075-project-employees-i) |
+| [1179-reformat-department-table](https://github.com/monishka3107-ai/leetcode/tree/master/1179-reformat-department-table) |
 ## Trie
 |  |
 | ------- |
