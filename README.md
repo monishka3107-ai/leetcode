@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/monishka3107-ai/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/monishka3107-ai/leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/monishka3107-ai/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/monishka3107-ai/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/monishka3107-ai/leetcode/tree/master/0217-contains-duplicate) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/monishka3107-ai/leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/monishka3107-ai/leetcode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/monishka3107-ai/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/monishka3107-ai/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/monishka3107-ai/leetcode/tree/master/0383-ransom-note) |
 ## Counting
