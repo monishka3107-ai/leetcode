@@ -49,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/monishka3107-ai/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/monishka3107-ai/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/monishka3107-ai/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/monishka3107-ai/leetcode/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/monishka3107-ai/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/monishka3107-ai/leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/monishka3107-ai/leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/monishka3107-ai/leetcode/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
